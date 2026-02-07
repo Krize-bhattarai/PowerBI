@@ -1,9 +1,10 @@
 # PowerBI
-## Data Files (Not Included)
+## Data Files (Not All Included)
 
 The following data files are required for this project but are not included in the repository due to large file size:
 
-- **personalvehiclesales.xlsx**  [PersonalVehicleSalesGlobal - Class work.xlsx](https://github.com/user-attachments/files/25142165/PersonalVehicleSalesGlobal.-.Class.work.xlsx)
+- **personalvehiclesales.xlsx**
+-  [PersonalVehicleSalesGlobal - Class work.xlsx](https://github.com/user-attachments/files/25142165/PersonalVehicleSalesGlobal.-.Class.work.xlsx)
   Main dataset used for Power BI analysis.
 
 - **us-states.csv**  (Not included)
