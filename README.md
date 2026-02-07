@@ -1,4 +1,5 @@
 # PowerBI
+powerbi_project.pbix
 ## Data Files (Not All Included)
 
 The following data files are required for this project but are not included in the repository due to large file size:
